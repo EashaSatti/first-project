@@ -1,2 +1,2 @@
 # first-project
-This is my first project using JavaScript concepts
+This is my first project building JavaScript concepts
